@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trail/static/css/main.9377704b.css",
+    "main.js": "/Trail/static/js/main.8dac1cf7.js",
+    "static/js/787.87c8eaef.chunk.js": "/Trail/static/js/787.87c8eaef.chunk.js",
+    "index.html": "/Trail/index.html",
+    "main.9377704b.css.map": "/Trail/static/css/main.9377704b.css.map",
+    "main.8dac1cf7.js.map": "/Trail/static/js/main.8dac1cf7.js.map",
+    "787.87c8eaef.chunk.js.map": "/Trail/static/js/787.87c8eaef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9377704b.css",
+    "static/js/main.8dac1cf7.js"
+  ]
+}
